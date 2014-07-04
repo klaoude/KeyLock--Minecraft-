@@ -1,0 +1,9 @@
+name: KeyLock
+main: com.gmail.neoklaoude.KeyLock
+version: 1.0
+description: Plugin for lock chest with a key for more RP
+author: Klaoude
+
+commands:
+    key:
+        description: Principal command of KeyLock plugin !
